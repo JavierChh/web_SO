@@ -1,0 +1,36 @@
+header{
+         background: #202020;
+        padding: 0.1px;
+        text-align: center;
+        font-family: Arial;
+        font-size: 40px;
+}
+header h1{
+        color: lightgreen;
+}
+body{
+        background: #202020;
+        font-family: Arial;
+        font-size: 28px;
+        color: lightgreen;
+        text-align: center;
+}
+div.scrollmenu {
+  background-color: lightgreen;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: #202020;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  border: 1px solid #202020;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
